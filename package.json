@@ -1,12 +1,12 @@
 {
-  "name": "secure-gemini",
+  "name": "getting-started-todo-app",
   "version": "1.0.0",
-  "description": "Minimal, security-conscious wrapper image for running the Google Gemini CLI",
-  "license": "MIT",
+  "description": "Minimal, security-conscious wrapper image for running the getting-started-todo-app",
+  "license": "Apache License 2.0",
   "scripts": {
-    "start": "npx @google/gemini-cli --help"
+    "start": ""
   },
   "dependencies": {
-    "@google/gemini-cli": "^0.8.2"
+    "": ""
   }
 }
