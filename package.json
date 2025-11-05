@@ -1,0 +1,12 @@
+{
+  "name": "secure-gemini",
+  "version": "1.0.0",
+  "description": "Minimal, security-conscious wrapper image for running the Google Gemini CLI",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx @google/gemini-cli --help"
+  },
+  "dependencies": {
+    "@google/gemini-cli": "^0.8.2"
+  }
+}
